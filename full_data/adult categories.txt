@@ -1,0 +1,159 @@
+Aesthetic
+Amputation
+Aneurysm Repair - Abdominal Aortic Aneurysm (AAA)
+Aneurysm Repair - All
+Angiography
+Angioplasty
+Ankle
+Anorectal Procedures
+Appendix
+Arm - Humerus
+Arterial (Non-Bypass)
+Arterial Bypass - All
+Arterial Bypass - Leg Bypas
+Arterial Surgery (Non-Bypass) - Carotid Endarterectomy
+Arteriovenous for Dialysis
+Bariatric
+Benign Tumour
+Bladder (Benign) - All
+Bladder (Benign) - All (Urologic)
+Bladder (Gynaecologic)
+Bone, Joint and Muscle CancersBreast Cancer
+Breast Disease - Benign (General Surgery)
+Breast Reconstructive - All
+Burn
+Cardiac (Heart) - Bypass
+Carotid Endarterectomy (Neurosurgery)
+Cataract
+Cerebrovascular - All
+Cervical (Benign)
+Cervical Disc - Neck (Orthopaedic)
+Cervical Disc Surgery with/without Fusion (Neurosurgery)
+Chest Wall (Benign)
+Chest/Trunk/Abdominal
+Combination Cataract and Other Procedure
+Combination Prolapse and Urinary Incontinence
+Congenital Disease (Neurosurgery)
+Congenital Disease - Cerebrospinal fluid diversion procedures for Hydrocephalus (Neurosurgery)
+Congenital/Development/Acquired Disorders (Oral and Maxillofacial)
+Cornea - Other
+Cornea - Transplant
+Cranial Nerve
+Craniofacial
+Cranioplasty
+Delayed Breast Cancer Reconstruction
+Dental Care for Persons with Severe Disabilities
+Dental/Periodontal/Dento-Alveolar Procedures
+Digestive System - Gallbladder
+Digestive Systems - All
+Ear - All
+Ear Tube
+Elbow
+Endocrine (General)
+Epididymis
+Epilepsy/Functional
+Esophageal
+Esophageal Disease (Non-GERD)
+Esophageal/Diaphragm (Benign)
+Eye Cancers
+Fallopian Tube
+Fermur
+Foot - All
+Forearm - Radius
+Forearm - Ulna
+Forefoot
+Fractures/Trauma - All
+Gastroesophageal Reflux Disease
+Gastroesophageal Reflux Disease - Acid-Reflux
+Gastrointestinal Cancers
+Genitourinary
+Genitourinary Cancers
+Glaucoma (Eye Pressure Lowering) - Other
+Glaucoma - eye Pressure Lowering Surgery
+Gynaecological Cancers
+Hand
+Head and Neck Cancers
+Head and Neck Reconstructive
+Head Trauma
+Hernia - Abdominal Wall (Not in groin)
+Hernia - All
+Hernia - Groin
+Hip - AllH
+ip Replacement
+Hysterectomy
+Hysteroscopic Endometrial Ablation
+Implants
+Jaw Joint Reconstruction Surgery
+Kidney Stone Removal
+Kidney/Renal Pelvis/Ureter- All
+Knee - All
+Knee Arthroscopy
+Knee Replacement
+Liver and Pancreatic Cancers
+Lower Extremity Reconstructive
+Lumbar Disc Surgery (Neurosurgery)
+Lumbar Disc Surgery - Lower Back (Orthopaedic)
+Lung Cancers
+Lung/Pleural (Benign) - All
+Lung/Pleural- Wedge Resection
+Lymphatic System
+Malocclusion
+Management of Broken Jaw
+Management of Infections
+Mediastinal (Benign)
+Neck
+Nerve Repair (Oral and Maxillofacial)
+Neurological Cancers
+Non-Malignant Lesion Removal
+Nose and Sinus
+Ocular Trauma
+Ophthalmic Plastics
+Oral Cavity (Benign)
+OrbitalOvarian (Benign)
+Palmar Fascia Excision for Dupuytren’s Disease
+Parathyroid
+Partial Excision of Prostate
+Pelvis
+Penile
+Peripheral Nerve
+Peripheral Nerve - All
+Peripheral Nerve Surgery Following Injury (Neurosurgery)
+Peripheral Nerve Surgery Following Injury (Plastic and Reconstructive Surgery)
+Peritoneal Disease
+Pleural Procedures
+Post-Bariatric Soft Tissue Reconstructive
+Prolapse - including hysterectomy repairs
+Prostate (Benign) - All
+Prostate Cancers
+Reconstructive (Oral and Maxillofacial)
+Retina - Vitrectomy
+Retina – Other
+Salivary Gland (Benign)
+Salivary Glands
+Seminal Vesicle
+Shoulder
+Sino-Nasal - All
+Skin and Structures
+Spermatic Cord
+Spinal (Neurosurgery)
+Spine (Orthopaedic)
+Spleen
+Strabismus
+Temporomandibular Joint - All
+Testes (Benign)
+Thoraco-Abdominal
+Thyroid
+Thyroid and Endocrine Cancers
+TibiaTrachea/Bronchial (Benign)
+Tracheobronchial Tree
+Tumour (Benign) Removal
+Tunica Vaginalis
+Upper Airway
+Upper Extremity Reconstructive
+Urinary Incontinence (Gynaecologic)
+Urinary Incontinence (Urologic)
+Uterine (Benign) excluding prolapse - All
+Varicose Veins
+Vas Deferens
+VenousVulva/Vaginal (Benign) - excluding prolapse
+Wrist
