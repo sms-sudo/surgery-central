@@ -1,0 +1,43 @@
+﻿Wait Times for Surgery
+Time from Referral to First Clinician Appointment (Wait 1)
+
+Results returned are based on hospitals reporting completed surgical volumes using your search criteria entered.
+"Note: Please check travel times before starting your trip. Distances are measured in a straight line and may not reflect the best travel route."
+
+"Patients with emergency conditions (Priority 1) are seen immediately and are not included in wait times data. Priority levels 2, 3, and 4 and target times are set by surgeons, specialists, and health care administrators, based on clinical evidence, to guide treatment decisions and improve patient access and outcomes."
+
+Procedure: Urinary Incontinence (Urologic)
+Reporting Period: 2020/21
+
+Provincial Average (all patients combined),,,,Provincial Average - Overall wait time (Patients seen within the target time)
+77 Days,,,,86%
+
+Hospital,Distance: ,Address,Overall wait time (Patients seen within the target time),Priority 4 (Days),Priority 3 (Days),Priority 2 (Days)
+,,,,Patients who should be treated within a target time of 182 Days,Patients who should be treated within a target time of 90 Days,Patients who should be treated within a target time of 30 Days
+Unity Health Toronto - St. Michael's,0.9 km,"30 Bond Street , Toronto, ON M5B1W8","This surgery not performed here"
+Women's College Hospital,1.0 km,"76 Grenville Street, Toronto, ON M5S1B2",100%,43,No surgeries in reporting period,No surgeries in reporting period,
+University Health Network - Princess Margaret Hospital,1.4 km,"610 University Avenue, Toronto, ON M5G2M9","This surgery not performed here"
+Sinai Health System - Mount Sinai Hospital,1.4 km,"600 University Avenue, Toronto, ON M5G1X5","Number too small to report"
+The Hospital For Sick Children,1.4 km,"555 University Ave, Toronto, ON M5G1X8","This surgery not performed here"
+University Health Network - Toronto General Hospital,1.8 km,"200 Elizabeth Street, Toronto, ON M5G2C4","No surgeries in reporting period"
+University Health Network - Toronto Western Hospital,2.5 km,"399 Bathurst St., Toronto, ON M5T2S8","Number too small to report"
+Kensington Eye Institute,2.5 km,"340 College Street Suite 600, Toronto, ON M5T3A9","This surgery not performed here"
+Unity Health Toronto - St. Joseph's,9.2 km,"30 The Queensway, Toronto, ON M6R1B5","Number too small to report"
+Sunnybrook Health Sciences Centre,9.6 km,"2075 Bayview Avenue, Toronto, ON M4N3M5","Number too small to report"
+Toronto East Health Network - Michael Garron Hospital,10.8 km,"825 Coxwell Avenue, Toronto, ON M4C3E7",100%,13,7,No surgeries in reporting period,
+Humber River Hospital - Wilson Site,16.3 km,"1235 Wilson Avenue, Toronto, ON M3M0B2",89%,85,No surgeries in reporting period,No surgeries in reporting period,
+Trillium Health Partners - Queensway Health Centre,17.3 km,"150 Sherway Drive, Toronto, ON M9C1A5","No surgeries in reporting period"
+North York General Hospital - Branson Site,18.5 km,"555 Finch Avenue West, Toronto, ON M2R1N5","This surgery not performed here"
+North York General Hospital - General Site,19.4 km,"4001 Leslie Street, Toronto, ON M2K1E1",100%,Number too small to report,Number too small to report,Number too small to report,
+Scarborough Health Network - Scarborough General Site,26.0 km,"3050 Lawrence Ave. E., Scarborough, ON M1P2V5","No surgeries in reporting period"
+Humber River Hospital - Church Site,32.2 km,"200 Church Street, Toronto, ON M9N1N8","This surgery not performed here"
+Scarborough Health Network - Birchmount,23.0 km,"3030 Birchmount Rd., Toronto, ON M1W3W3","No surgeries in reporting period"
+Trillium Health Partners - Mississauga Hospital,23.7 km,"100 Queensway West, Mississauga, ON L5B1B8","No surgeries in reporting period"
+Scarborough Health Network - Centenary,28.3 km,"2867 Ellesmere Road, Toronto, ON M1E4B9","No surgeries in reporting period"
+William Osler Health System - Etobicoke General,30.1 km,"101 Humber College Blvd., Etobicoke, ON M9V1R8","Number too small to report"
+Trillium Health Partners - Credit Valley Hospital,34.7 km,"2200 Eglinton Avenue West, Mississauga, ON L5M2N1","No surgeries in reporting period"
+Mackenzie Health - Richmond Hill,37.9 km,"10 Trench Street, Richmond Hill, ON L4C4Z3","Number too small to report"
+
+Learn why some data is not available. https://www.hqontario.ca/System-Performance/Measuring-System-Performance/When-and-Why-Data-is-Not-Reported
+
+"Link: https://www.ontariohealth.ca/our-work/public-reporting/wait-times-results"
