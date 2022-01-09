@@ -1,30 +1,34 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import "./ToggleButtonExample.css";
+import { GlobalContext } from "../contexts/GlobalContext";
 
 function ToggleButtonExample() {
-  // NOTE:
-  // Return async function and change onclick button template to adult and child buttons with onclick event
-  // Increment every time adult is used (positive and odd means its currently on adult -- since it starts off on adult)
-  // decrement every time child is used (negative and even means its currently on child)
-  //
-  // const App = () => {
-  //   const [count, setCount] = useState(0);
-  //   return (
-  //     <>
-  //       <p>{count}</p>
-  //       <button onClick={() => setCount(count + 1)}>Increment</button>
-  //       <button onClick={() => setCount(count - 1)}>Decrement</button>
-  //     </>
-  //   );
-  // };
+  const { setIsAdult } = useContext(GlobalContext);
+  const [adultClasses, setAdultClasses] = useState("btn btn-outline-primary");
+  const [childClasses, setChildClasses] = useState("btn btn-outline-primary");
+
+  const onToggle = (isAdult) => {
+    if (isAdult) {
+      setAdultClasses("btn btn-outline-primary btn-primary text-light");
+      setChildClasses("btn btn-outline-primary");
+    } else {
+      setChildClasses("btn btn-outline-primary btn-primary text-light");
+      setAdultClasses("btn btn-outline-primary");
+    }
+    setIsAdult(isAdult);
+  };
 
   return (
     <div class="text-center">
-      <button type="button" class="btn btn-outline-primary" id="adult">
+      <button class={adultClasses} onClick={() => onToggle(true)}>
         Adult
       </button>
 
-      <button type="button" class="btn btn-outline-primary" id="child">
+      <button
+        type="button"
+        class={childClasses}
+        onClick={() => onToggle(false)}
+      >
         Child
       </button>
     </div>

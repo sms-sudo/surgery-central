@@ -1,14 +1,14 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import "./QueryPage.css";
-
-import QueryIcon from "@mui/icons-material/Search";
-import CloseIcon from "@mui/icons-material/Close";
-import { Link } from "react-router-dom";
+import { useHistory } from "react-router-dom";
 import ToggleButtonExample from "./ToggleButtonExample";
+import { GlobalContext } from "../contexts/GlobalContext";
 
 function QueryPage({ placeholder, data }) {
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
+  let history = useHistory();
+  const { setSurgeryId } = useContext(GlobalContext);
 
   const handleFilter = (event) => {
     const searchWord = event.target.value;
@@ -29,39 +29,48 @@ function QueryPage({ placeholder, data }) {
     setWordEntered("");
   };
 
+  const handleQuery = (surgeyrName) => {
+    setSurgeryId(surgeyrName);
+    history.push(`/options/${surgeyrName}`);
+  };
+
   return (
-    <div className="query">
+    <div className="query d-flex flex-column">
       <ToggleButtonExample />
-      <div className="queryInputs">
-        <input
-          type="text"
-          placeholder={placeholder}
-          value={wordEntered}
-          onChange={handleFilter}
-        />
-        <div className="queryIcon">
-          {wordEntered.length === 0 ? (
-            <QueryIcon />
-          ) : (
-            <CloseIcon id="clearBtn" onClick={clearInput} />
-          )}
+      <div>
+        <div className="queryInputs">
+          <input
+            type="text"
+            placeholder={placeholder}
+            value={wordEntered}
+            onChange={handleFilter}
+          />
+          <div className="queryIcon">
+            {wordEntered.length === 0 ? (
+              <button className="btn btn-outline-primary">?</button>
+            ) : (
+              <button className="btn btn-outline-primary" onClick={clearInput}>
+                X
+              </button>
+            )}
+          </div>
         </div>
+        {filteredData.length !== 0 && (
+          <div className="queryResult">
+            {filteredData.map((value, key) => {
+              return (
+                <div
+                  className="dataItem"
+                  target="_blank"
+                  onClick={() => handleQuery(value.name)}
+                >
+                  <p>{value.name} </p>
+                </div>
+              );
+            })}
+          </div>
+        )}
       </div>
-      {filteredData.length != 0 && (
-        <div className="queryResult">
-          {filteredData.map((value, key) => {
-            return (
-              <Link
-                className="dataItem"
-                to={`/options/${value.name}`}
-                target="_blank"
-              >
-                <p>{value.name} </p>
-              </Link>
-            );
-          })}
-        </div>
-      )}
     </div>
   );
 }
