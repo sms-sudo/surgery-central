@@ -7,6 +7,7 @@ import Header from "./components/Header";
 import { LoadScript } from "@react-google-maps/api";
 import config from "./config/config";
 import { GlobalProvider } from "./contexts/GlobalContext";
+import surgeryData from "./sample.json";
 
 function App() {
   return (
@@ -19,7 +20,10 @@ function App() {
           <Router>
             <Header />
             <Route exact path="/">
-              <QueryPage />
+              <QueryPage
+                placeholder="Search or enter procedure or treatment name"
+                data={surgeryData}
+              />
             </Route>
             <Route exact path="/options/:surgeryId">
               <OptionsPage />
