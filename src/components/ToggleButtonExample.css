@@ -1,0 +1,6 @@
+.text-center {
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(20%, -250%) scale(1.5);
+}

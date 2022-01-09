@@ -1,0 +1,678 @@
+[
+  {
+    "type": "child",
+    "name": "Cardiac (Heart)"
+  },
+  {
+    "type": "child",
+    "name": "General"
+  },
+  {
+    "type": "child",
+    "name": "Gynaecologic"
+  },
+  {
+    "type": "child",
+    "name": "Neurosurgery"
+  },
+  {
+    "type": "child",
+    "name": "Ophthalmic - Eye"
+  },
+  {
+    "type": "child",
+    "name": "Oral and Maxillofacial - Head and Neck"
+  },
+  {
+    "type": "child",
+    "name": "Orthopaedic - Bone and Spine"
+  },
+  {
+    "type": "child",
+    "name": "Otolaryngic - Ear, Nose and Throat"
+  },
+  {
+    "type": "child",
+    "name": "Plastic and Reconstructive"
+  },
+  {
+    "type": "child",
+    "name": "Urologic - Kidney/Bladder"
+  },
+  {
+    "type": "adult",
+    "name": "Aesthetic"
+  },
+  {
+    "type": "adult",
+    "name": "Amputation"
+  },
+  {
+    "type": "adult",
+    "name": "Aneurysm Repair - Abdominal Aortic Aneurysm (AAA)"
+  },
+  {
+    "type": "adult",
+    "name": "Aneurysm Repair - All"
+  },
+  {
+    "type": "adult",
+    "name": "Angiography"
+  },
+  {
+    "type": "adult",
+    "name": "Angioplasty"
+  },
+  {
+    "type": "adult",
+    "name": "Ankle"
+  },
+  {
+    "type": "adult",
+    "name": "Anorectal Procedures"
+  },
+  {
+    "type": "adult",
+    "name": "Appendix"
+  },
+  {
+    "type": "adult",
+    "name": "Arm - Humerus"
+  },
+  {
+    "type": "adult",
+    "name": "Arterial (Non-Bypass)"
+  },
+  {
+    "type": "adult",
+    "name": "Arterial Bypass - All"
+  },
+  {
+    "type": "adult",
+    "name": "Arterial Bypass - Leg Bypas"
+  },
+  {
+    "type": "adult",
+    "name": "Arterial Surgery (Non-Bypass) - Carotid Endarterectomy"
+  },
+  {
+    "type": "adult",
+    "name": "Arteriovenous for Dialysis"
+  },
+  {
+    "type": "adult",
+    "name": "Bariatric"
+  },
+  {
+    "type": "adult",
+    "name": "Benign Tumour"
+  },
+  {
+    "type": "adult",
+    "name": "Bladder (Benign) - All"
+  },
+  {
+    "type": "adult",
+    "name": "Bladder (Benign) - All (Urologic)"
+  },
+  {
+    "type": "adult",
+    "name": "Bladder (Gynaecologic)"
+  },
+  {
+    "type": "adult",
+    "name": "Bone, Joint and Muscle CancersBreast Cancer"
+  },
+  {
+    "type": "adult",
+    "name": "Breast Disease - Benign (General Surgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Breast Reconstructive - All"
+  },
+  {
+    "type": "adult",
+    "name": "Burn"
+  },
+  {
+    "type": "adult",
+    "name": "Cardiac (Heart) - Bypass"
+  },
+  {
+    "type": "adult",
+    "name": "Carotid Endarterectomy (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Cataract"
+  },
+  {
+    "type": "adult",
+    "name": "Cerebrovascular - All"
+  },
+  {
+    "type": "adult",
+    "name": "Cervical (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Cervical Disc - Neck (Orthopaedic)"
+  },
+  {
+    "type": "adult",
+    "name": "Cervical Disc Surgery with/without Fusion (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Chest Wall (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Chest/Trunk/Abdominal"
+  },
+  {
+    "type": "adult",
+    "name": "Combination Cataract and Other Procedure"
+  },
+  {
+    "type": "adult",
+    "name": "Combination Prolapse and Urinary Incontinence"
+  },
+  {
+    "type": "adult",
+    "name": "Congenital Disease (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Congenital Disease - Cerebrospinal fluid diversion procedures for Hydrocephalus (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Congenital/Development/Acquired Disorders (Oral and Maxillofacial)"
+  },
+  {
+    "type": "adult",
+    "name": "Cornea - Other"
+  },
+  {
+    "type": "adult",
+    "name": "Cornea - Transplant"
+  },
+  {
+    "type": "adult",
+    "name": "Cranial Nerve"
+  },
+  {
+    "type": "adult",
+    "name": "Craniofacial"
+  },
+  {
+    "type": "adult",
+    "name": "Cranioplasty"
+  },
+  {
+    "type": "adult",
+    "name": "Delayed Breast Cancer Reconstruction"
+  },
+  {
+    "type": "adult",
+    "name": "Dental Care for Persons with Severe Disabilities"
+  },
+  {
+    "type": "adult",
+    "name": "Dental/Periodontal/Dento-Alveolar Procedures"
+  },
+  {
+    "type": "adult",
+    "name": "Digestive System - Gallbladder"
+  },
+  {
+    "type": "adult",
+    "name": "Digestive Systems - All"
+  },
+  {
+    "type": "adult",
+    "name": "Ear - All"
+  },
+  {
+    "type": "adult",
+    "name": "Ear Tube"
+  },
+  {
+    "type": "adult",
+    "name": "Elbow"
+  },
+  {
+    "type": "adult",
+    "name": "Endocrine (General)"
+  },
+  {
+    "type": "adult",
+    "name": "Epididymis"
+  },
+  {
+    "type": "adult",
+    "name": "Epilepsy/Functional"
+  },
+  {
+    "type": "adult",
+    "name": "Esophageal"
+  },
+  {
+    "type": "adult",
+    "name": "Esophageal Disease (Non-GERD)"
+  },
+  {
+    "type": "adult",
+    "name": "Esophageal/Diaphragm (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Eye Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Fallopian Tube"
+  },
+  {
+    "type": "adult",
+    "name": "Fermur"
+  },
+  {
+    "type": "adult",
+    "name": "Foot - All"
+  },
+  {
+    "type": "adult",
+    "name": "Forearm - Radius"
+  },
+  {
+    "type": "adult",
+    "name": "Forearm - Ulna"
+  },
+  {
+    "type": "adult",
+    "name": "Forefoot"
+  },
+  {
+    "type": "adult",
+    "name": "Fractures/Trauma - All"
+  },
+  {
+    "type": "adult",
+    "name": "Gastroesophageal Reflux Disease"
+  },
+  {
+    "type": "adult",
+    "name": "Gastroesophageal Reflux Disease - Acid-Reflux"
+  },
+  {
+    "type": "adult",
+    "name": "Gastrointestinal Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Genitourinary"
+  },
+  {
+    "type": "adult",
+    "name": "Genitourinary Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Glaucoma (Eye Pressure Lowering) - Other"
+  },
+  {
+    "type": "adult",
+    "name": "Glaucoma - eye Pressure Lowering Surgery"
+  },
+  {
+    "type": "adult",
+    "name": "Gynaecological Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Hand"
+  },
+  {
+    "type": "adult",
+    "name": "Head and Neck Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Head and Neck Reconstructive"
+  },
+  {
+    "type": "adult",
+    "name": "Head Trauma"
+  },
+  {
+    "type": "adult",
+    "name": "Hernia - Abdominal Wall (Not in groin)"
+  },
+  {
+    "type": "adult",
+    "name": "Hernia - All"
+  },
+  {
+    "type": "adult",
+    "name": "Hernia - Groin"
+  },
+  {
+    "type": "adult",
+    "name": "Hip - AllH"
+  },
+  {
+    "type": "adult",
+    "name": "ip Replacement"
+  },
+  {
+    "type": "adult",
+    "name": "Hysterectomy"
+  },
+  {
+    "type": "adult",
+    "name": "Hysteroscopic Endometrial Ablation"
+  },
+  {
+    "type": "adult",
+    "name": "Implants"
+  },
+  {
+    "type": "adult",
+    "name": "Jaw Joint Reconstruction Surgery"
+  },
+  {
+    "type": "adult",
+    "name": "Kidney Stone Removal"
+  },
+  {
+    "type": "adult",
+    "name": "Kidney/Renal Pelvis/Ureter- All"
+  },
+  {
+    "type": "adult",
+    "name": "Knee - All"
+  },
+  {
+    "type": "adult",
+    "name": "Knee Arthroscopy"
+  },
+  {
+    "type": "adult",
+    "name": "Knee Replacement"
+  },
+  {
+    "type": "adult",
+    "name": "Liver and Pancreatic Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Lower Extremity Reconstructive"
+  },
+  {
+    "type": "adult",
+    "name": "Lumbar Disc Surgery (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Lumbar Disc Surgery - Lower Back (Orthopaedic)"
+  },
+  {
+    "type": "adult",
+    "name": "Lung Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Lung/Pleural (Benign) - All"
+  },
+  {
+    "type": "adult",
+    "name": "Lung/Pleural- Wedge Resection"
+  },
+  {
+    "type": "adult",
+    "name": "Lymphatic System"
+  },
+  {
+    "type": "adult",
+    "name": "Malocclusion"
+  },
+  {
+    "type": "adult",
+    "name": "Management of Broken Jaw"
+  },
+  {
+    "type": "adult",
+    "name": "Management of Infections"
+  },
+  {
+    "type": "adult",
+    "name": "Mediastinal (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Neck"
+  },
+  {
+    "type": "adult",
+    "name": "Nerve Repair (Oral and Maxillofacial)"
+  },
+  {
+    "type": "adult",
+    "name": "Neurological Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Non-Malignant Lesion Removal"
+  },
+  {
+    "type": "adult",
+    "name": "Nose and Sinus"
+  },
+  {
+    "type": "adult",
+    "name": "Ocular Trauma"
+  },
+  {
+    "type": "adult",
+    "name": "Ophthalmic Plastics"
+  },
+  {
+    "type": "adult",
+    "name": "Oral Cavity (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "OrbitalOvarian (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Palmar Fascia Excision for Dupuytren\u00e2\u20ac\u2122s Disease"
+  },
+  {
+    "type": "adult",
+    "name": "Parathyroid"
+  },
+  {
+    "type": "adult",
+    "name": "Partial Excision of Prostate"
+  },
+  {
+    "type": "adult",
+    "name": "Pelvis"
+  },
+  {
+    "type": "adult",
+    "name": "Penile"
+  },
+  {
+    "type": "adult",
+    "name": "Peripheral Nerve"
+  },
+  {
+    "type": "adult",
+    "name": "Peripheral Nerve - All"
+  },
+  {
+    "type": "adult",
+    "name": "Peripheral Nerve Surgery Following Injury (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Peripheral Nerve Surgery Following Injury (Plastic and Reconstructive Surgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Peritoneal Disease"
+  },
+  {
+    "type": "adult",
+    "name": "Pleural Procedures"
+  },
+  {
+    "type": "adult",
+    "name": "Post-Bariatric Soft Tissue Reconstructive"
+  },
+  {
+    "type": "adult",
+    "name": "Prolapse - including hysterectomy repairs"
+  },
+  {
+    "type": "adult",
+    "name": "Prostate (Benign) - All"
+  },
+  {
+    "type": "adult",
+    "name": "Prostate Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "Reconstructive (Oral and Maxillofacial)"
+  },
+  {
+    "type": "adult",
+    "name": "Retina - Vitrectomy"
+  },
+  {
+    "type": "adult",
+    "name": "Retina \u00e2\u20ac\u201c Other"
+  },
+  {
+    "type": "adult",
+    "name": "Salivary Gland (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Salivary Glands"
+  },
+  {
+    "type": "adult",
+    "name": "Seminal Vesicle"
+  },
+  {
+    "type": "adult",
+    "name": "Shoulder"
+  },
+  {
+    "type": "adult",
+    "name": "Sino-Nasal - All"
+  },
+  {
+    "type": "adult",
+    "name": "Skin and Structures"
+  },
+  {
+    "type": "adult",
+    "name": "Spermatic Cord"
+  },
+  {
+    "type": "adult",
+    "name": "Spinal (Neurosurgery)"
+  },
+  {
+    "type": "adult",
+    "name": "Spine (Orthopaedic)"
+  },
+  {
+    "type": "adult",
+    "name": "Spleen"
+  },
+  {
+    "type": "adult",
+    "name": "Strabismus"
+  },
+  {
+    "type": "adult",
+    "name": "Temporomandibular Joint - All"
+  },
+  {
+    "type": "adult",
+    "name": "Testes (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Thoraco-Abdominal"
+  },
+  {
+    "type": "adult",
+    "name": "Thyroid"
+  },
+  {
+    "type": "adult",
+    "name": "Thyroid and Endocrine Cancers"
+  },
+  {
+    "type": "adult",
+    "name": "TibiaTrachea/Bronchial (Benign)"
+  },
+  {
+    "type": "adult",
+    "name": "Tracheobronchial Tree"
+  },
+  {
+    "type": "adult",
+    "name": "Tumour (Benign) Removal"
+  },
+  {
+    "type": "adult",
+    "name": "Tunica Vaginalis"
+  },
+  {
+    "type": "adult",
+    "name": "Upper Airway"
+  },
+  {
+    "type": "adult",
+    "name": "Upper Extremity Reconstructive"
+  },
+  {
+    "type": "adult",
+    "name": "Urinary Incontinence (Gynaecologic)"
+  },
+  {
+    "type": "adult",
+    "name": "Urinary Incontinence (Urologic)"
+  },
+  {
+    "type": "adult",
+    "name": "Uterine (Benign) excluding prolapse - All"
+  },
+  {
+    "type": "adult",
+    "name": "Varicose Veins"
+  },
+  {
+    "type": "adult",
+    "name": "Vas Deferens"
+  },
+  {
+    "type": "adult",
+    "name": "VenousVulva/Vaginal (Benign) - excluding prolapse"
+  },
+  {
+    "type": "adult",
+    "name": "Wrist"
+  }
+]
