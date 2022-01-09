@@ -20,14 +20,14 @@ const OptionsPage = () => {
       <h1 className="mt-4 text-left w-75">Results for {surgeryId}</h1>
       <AddressBar />
 
-      <div class={alertClasses}>
+      <div className={alertClasses}>
         <button
           type="button"
-          class="btn-close"
+          className="btn-close"
           data-bs-dismiss="alert"
           onClick={onAlertClose}
         ></button>
-        <p class="mb-0">
+        <p className="mb-0">
           Patients with emergency conditions (Priority 1) are seen immediately
           and are not included in wait times data. Priority levels 2, 3, and 4
           and target times are set by surgeons, specialists, and health care

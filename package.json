@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://maps.googleapis.com/maps/api/distancematrix"
+  "proxy": "https://maps.googleapis.com/maps/api"
 }

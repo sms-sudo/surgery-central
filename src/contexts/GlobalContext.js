@@ -6,7 +6,7 @@ const initialState = {
   address: "",
   surgeryId: "Aesthetic",
   isAdult: true,
-  hospitalId: "",
+  hospitalId: "Unity Health Toronto - St. Michael's",
 };
 
 export const GlobalContext = createContext(initialState);
