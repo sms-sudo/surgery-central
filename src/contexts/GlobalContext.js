@@ -4,7 +4,8 @@ import { GLOBAL_ACTIONS } from "./GlobalActions";
 
 const initialState = {
   address: "",
-  surgeryId: "",
+  surgeryId: "Aesthetic",
+  isAdult: true,
   hospitalId: "",
 };
 
@@ -25,15 +26,21 @@ export const GlobalProvider = ({ children }) => {
     dispatch({ type: GLOBAL_ACTIONS.SET_SURGERY, payload: newSurgeryId });
   };
 
+  const setIsAdult = (neIsAdult) => {
+    dispatch({ type: GLOBAL_ACTIONS.SET_SURGERY, payload: neIsAdult });
+  };
+
   return (
     <GlobalContext.Provider
       value={{
         address: state.address,
         hospitalId: state.hospitalId,
         surgeryId: state.surgeryId,
+        isAdult: state.isAdult,
         setAddress,
         setHospitalId,
         setSurgeryId,
+        setIsAdult,
       }}
     >
       {children}
