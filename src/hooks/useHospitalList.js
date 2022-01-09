@@ -51,7 +51,7 @@ const useHospitalList = () => {
     if (address !== "" && hospitalList !== [])
       axios({
         method: "GET",
-        url: "/json",
+        url: "/distancematrix/json",
         params: {
           origins: address,
           destinations: getAddressListString(hospitalList),

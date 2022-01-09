@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useHistory } from "react-router";
+import { GlobalContext } from "../../contexts/GlobalContext";
 
 const OptionCard = ({
   hospitalName,
@@ -10,8 +11,10 @@ const OptionCard = ({
   priority3,
 }) => {
   let history = useHistory();
+  const { setHospitalId } = useContext(GlobalContext);
 
   const handleContact = () => {
+    setHospitalId(hospitalName);
     history.push(`/contact/${hospitalName}`);
   };
 
