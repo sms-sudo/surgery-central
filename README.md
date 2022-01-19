@@ -6,7 +6,7 @@ A website connected to updated data from Ontario Health to centralize surgery bo
 * [What it does](#what-it-does)
 * [How we built it](#how-we-built-it)
 * [Challenges we ran into](#challenges-we-ran-into)
-* [Accomplishments that we're proud of] (#accomplishments-that-we're-proud-of)
+* [Accomplishments that we're proud of](#accomplishments-that-we're-proud-of)
 * [Languages and Sources](#languages-and-sources)
 
 ## Inspiration
