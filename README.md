@@ -1,5 +1,5 @@
 # surgery-central
-A website connected to updated data from Ontario Health to centralize surgery bookings/searching throughout Ontario, due to the back log of 
+A website connected to updated data from Ontario Health to centralize surgery bookings/searching throughout Ontario, due to the back log of surgeries.
 
 ## Table of contents
 * [Inspiration](#inspiration)
